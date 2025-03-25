@@ -1,3 +1,5 @@
+![Competition](./fig/competition.png)
+
 # Fisheye Domain Adaptation for Semantic Segmentation
 This repository contains the solution for a competition focused on developing an AI algorithm for high-performance semantic segmentation under geometric distortion, specifically targeting fisheye camera images in autonomous driving scenarios.
 
